@@ -56,6 +56,10 @@ inputs:
     description: 'changlelog commit types'
     required: false
     default: ''
+  changelog-notes-type:
+    description: 'changlelog notes type (default or github)'
+    required: false
+    default: ''
   config-file:
     description: 'where can the config file be found in the project?'
     required: false
