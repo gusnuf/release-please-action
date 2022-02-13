@@ -1,5 +1,18 @@
 # Changelog
 
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+### Breaking Changes 🛠
+* Update action.yml by @gusnuf in https://github.com/gusnuf/release-please-action/pull/2
+### Exciting New Features 🎉
+* This is a PR's title by @gusnuf in https://github.com/gusnuf/release-please-action/pull/3
+
+## New Contributors
+* @gusnuf made their first contribution in https://github.com/gusnuf/release-please-action/pull/2
+
+**Full Changelog**: https://github.com/gusnuf/release-please-action/compare/v3.1.1...v3.2.0
+
 ### [3.1.1](https://github.com/google-github-actions/release-please-action/compare/v3.1.0...v3.1.1) (2022-02-11)
 
 
